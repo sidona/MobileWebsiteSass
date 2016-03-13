@@ -1,0 +1,35 @@
+footer{
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 40px;
+  width: 100%;
+  border-top: 1px solid #333;
+
+  .footer-content{
+    position: relative;
+    width: 100%;
+    ul{
+      width: 100%;
+      margin: 0;
+      padding: 0;
+
+      li{
+        @include inline-block;
+        vertical-align: top;
+        width: 25%;
+        height: 40px;
+        position: relative;
+        a{
+          text-decoration: none;
+          position: absolute;
+          top: 0;
+          width: 100%;
+          line-height: 40px;
+          text-align: center;
+        }
+      }
+    }
+  }
+
+}

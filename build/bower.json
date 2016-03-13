@@ -1,0 +1,14 @@
+{
+  "name": "mobile",
+  "version": "1.0",
+  "dependencies": {
+    "modernizr": "~2.7.1",
+    "requirejs": "~2.1.8",
+    "angular": "^1.4.0",
+    "angular-ui-router": "^0.2.18",
+    "angular-animate": "^1.4.0"
+  },
+  "resolutions": {
+    "angular": "^1.4.0"
+  }
+}

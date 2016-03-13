@@ -1,0 +1,141 @@
+{
+  "data":
+
+  {
+    "menu":
+    [
+      {"id":0,"title":"home","link":"#/site/home"},
+      {"id":1,"title":"about","link":"#/site/about"},
+      {"id":2,"title":"event","link":"#/site/event"},
+      {"id":3,"title":"people","link":"#/site/participants"}
+    ],
+
+    "pages":
+    [
+      {
+        "id":0,
+        "title":"Home",
+
+        "content":
+        {
+          "heading":
+          {
+            "image":"assets/images/cover.jpg",
+            "h1":"2009 United Nations Climate Change Conference.",
+            "h2":"From wikipedia, the free encyclopedia"
+          },
+          "body":[
+
+            "The 2009 United Nations Climate Change Conference, commonly known as the Copenhagen Summit, was held at the Bella Center in Copenhagen, Denmark, between 7 and 18 December.",
+            "The conference included the 15th Conference of the Parties (COP 15) to the United Nations Framework Convention on Climate Change (UNFCCC) and the 5th Meeting of the Parties (MOP 5) to the Kyoto Protocol. According to the Bali Road Map, a framework for climate change mitigation beyond 2012 was to be agreed there.",
+            "On Friday 18 December, the final day of the conference, international media reported that the climate talks were in disarray Media also reported that in lieu of a summit collapse, only a weak political statement was anticipated at the conclusion of the conference.[6][7] The Copenhagen Accord was drafted by the United States, China, India, Brazil and South Africa on 18 December, and judged a meaningful agreement by the United States government.",
+            "It was taken note of, but not adopted, in a debate of all the participating countries the next day, and it was not passed unanimously. The document recognised that climate change is one of the greatest challenges of the present day and that actions should be taken to keep any temperature increases to below 2 °C. The document is not legally binding and does not contain any legally binding commitments for reducing CO 2 emissions."
+          ]
+        }
+
+      },
+      {
+        "id":1,
+        "title":"About",
+
+        "content":
+        {
+          "heading":
+          {
+            "image":"assets/images/cover.jpg",
+            "h1":"Copenhagen Summit 2009",
+            "h2":"Bella Center, Copenhagen, Denmark"
+          },
+          "body":[
+
+            "the Copenhagen Summit, was held at the Bella Center in Copenhagen, Denmark, between 7 and 18 December.",
+            "The conference included the 15th Conference of the Parties (COP 15) to the United Nations Framework Convention on Climate Change (UNFCCC) and the 5th Meeting of the Parties (MOP 5) to the Kyoto Protocol.",
+            "According to the Bali Road Map, a framework for climate change mitigation beyond 2012 was to be agreed there."
+          ]
+        }
+
+      },
+      {
+        "id":2,
+        "title":"Event",
+
+        "content":
+        {
+          "event":[
+
+            {
+              "title":"date",
+              "text":"7 December 2009 – 18 December 2009"
+            },
+            {
+              "title":"location",
+              "text":"Bella Center, Copenhagen, Denmark"
+            },
+            {
+              "title":"Also known as",
+              "text":"COP15"
+            },
+            {
+              "title":"Participants",
+              "text":"UNFCCC member countries"
+            },
+            {
+              "title":"Website",
+              "text":"http://unchronicle.un.org/"
+            }
+
+          ]
+
+        }
+
+      },
+      {
+        "id":3,
+        "title":"Participants",
+
+        "content":
+        {
+          "heading":{
+            "h1":"Participants"
+          },
+          "participants":[
+
+            {
+              "country":"India",
+              "title":"Prime minister",
+              "name":"Manmohan Singh"
+            },
+            {
+              "country":"India",
+              "title":"Minister of Environment and Forests",
+              "name":"Jairam Ramesh"
+            },
+            {
+              "country":"USA",
+              "title":"President",
+              "name":"Barack Obama"
+            },
+            {
+              "country":"China",
+              "title":"Chinese Premier",
+              "name":"Wen Jiabao"
+            },
+            {
+              "country":"Brazil",
+              "title":"President",
+              "name":"Lula da Silva"
+            },
+            {
+              "country":"South Africa",
+              "title":"President",
+              "name":"Jacob Zuma"
+            }
+
+          ]
+
+        }
+
+      }
+    ]
+  }
+}

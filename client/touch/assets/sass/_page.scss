@@ -1,0 +1,36 @@
+.page{
+
+  position: relative;
+  width: 100%;
+  max-width: 560px;
+  padding: 20px;
+  margin: 0 auto;
+
+  .heading{
+    text-align: center;
+    img{
+      width: 100%;
+      height: auto;
+      max-width: 175px;
+    }
+  }
+
+  h1{
+    color:$primary-color;
+    text-align: center;
+    text-transform:capitalize;
+  }
+
+  h2{
+    color: $third-color;
+    text-align: center;
+    text-transform: uppercase;
+  }
+
+  .body{
+    p{
+      margin: 20px 0px;
+    }
+
+  }
+}
